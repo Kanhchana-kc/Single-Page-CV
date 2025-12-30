@@ -1,7 +1,4 @@
-Here is a **proper A4 page setup** for your resume ✅
-This will make your HTML **print perfectly on A4 paper** (PDF or printer).
 
----
 
 ## ✅ A4 PAGE CSS (ADD THIS)
 
@@ -88,16 +85,7 @@ body {
 
 ---
 
-## 🔥 Want More?
 
-I can:
-
-* Make it **1-page only**
-* Add **Khmer + English bilingual**
-* Create **modern A4 design (tech CV)**
-* Convert to **PDF automatically**
-
-Just tell me 👍
 
 
 
